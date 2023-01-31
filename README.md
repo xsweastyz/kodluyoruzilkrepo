@@ -24,5 +24,6 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 # License
 MIT
 
-![markdown](https://user-images.githubusercontent.com/123749258/215839177-63e09e63-1911-4367-9b93-17d0c53173a0.png)
+![markdown](https://user-images.githubusercontent.com/123749258/215839477-d6f47af8-02d3-4e17-9187-bf0c907cf1a0.png)
+
 
